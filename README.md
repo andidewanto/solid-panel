@@ -2,7 +2,7 @@
 
 **Turn a flat shape or a few lines into a solid panel.**
 
-Free · Made on SketchUp 2026 for macOS · Version 1.2.0
+Free · Made on SketchUp 2026 for macOS · Version 1.2.1
 
 [**Download**](https://andidewanto.github.io/solid-panel/) · [**Tutorial**](https://andidewanto.github.io/solid-panel/tutorial.html)
 
